@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cabeo Cabeo</h1>
+<h1 align="center">Hi 👋, I'm Cabeo </h1>
 <h3 align="center">Defeat is simply a signal to press onward</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cabeo0210&label=Profile%20views&color=0e75b6&style=flat" alt="cabeo0210" /> </p>
